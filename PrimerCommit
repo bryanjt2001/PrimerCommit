@@ -1,1 +1,5 @@
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>git commit -m "Añado el archivo de texto vacío"
+[master (root-commit) ec6105f] Añado el archivo de texto vacío
+ 1 file changed, 4 insertions(+)
+ create mode 100644 Archivo.txt
